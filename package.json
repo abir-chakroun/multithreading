@@ -1,0 +1,11 @@
+{
+  "name": "multithreading",
+  "version": "1.0.0",
+  "description": "optimising prime numbers generator using worker threads",
+  "main": "generate-primes-optimised.js",
+  "scripts": {
+    "start": "npx tsx generate-primes.ts",
+    "start-optimised": "npx tsx generate-primes-optimised.ts"
+  },
+  "author": "abir chakroun"
+}
