@@ -13,6 +13,10 @@
 
 ## Testing
 
+- Results comparison:
+    - i did a manual test for both results with converting the message on both sides to a hash using a SHA256 generator https://emn178.github.io/online-tools/sha256.html 
+    - both solutions have same hash hence they are both equal `3d7aa38406c44d9f33dbcfa9380e4d6a96c795bb46dd9801d2a46e6a292b7cde`
+
 - Check if performance is improved:
 
     - First solution: `time npm run start` 
